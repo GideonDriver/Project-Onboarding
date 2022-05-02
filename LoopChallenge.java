@@ -53,7 +53,7 @@ public class LoopChallenge {
 		list1.add("B|C");
 		list1.add("C|D");
 		list1.add("D|E");
-		list1.add("E|C");
+		list1.add("E|C"); // E|F
 
 		// run the Loop Detection method to check for multiple pointers
 		System.out.println(LoopDetection(list1));
